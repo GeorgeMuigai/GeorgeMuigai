@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm George Muigai</h1>
 <h3 align="center">A passionate Android developer from Kenya</h3>
-
+<img src="https://www.pinterest.com/pin/763782418053463516/" align="center"/>
 - 🔭 I’m currently working on a **Movie app**
 
 - 🌱 I’m currently learning **PHP, MySQL**
